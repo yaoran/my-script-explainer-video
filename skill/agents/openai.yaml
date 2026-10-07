@@ -1,0 +1,4 @@
+interface:
+  display_name: "文案解说视频制作"
+  short_description: "把中文文案做成带配音、字幕和动效的解说视频，横屏竖屏可选，21 种风格可选"
+  default_prompt: "用 $my-script-explainer-video 把我给的文案（或选题）做成一条中文解说视频：先出文稿和展示形式提案（画幅、风格、主线画面），等我确认后再制作到成片。"

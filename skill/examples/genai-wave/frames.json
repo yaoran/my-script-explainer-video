@@ -1,0 +1,17 @@
+[
+  {"n": 1, "slug": "hook", "title": "开场：从聊天到上班", "lead": 1.1, "text": "不到四年前，AI 还只会陪你聊天。今天，它已经能替你上班。从 2023 到 2026 年 10 月，这一波生成式 AI，到底是怎么走过来的？", "tail": 0.95},
+  {"n": 2, "slug": "2023-speak", "title": "2023 会说话", "lead": 1.1, "text": "2023 年，关键词：会说话。年初，ChatGPT 上线两个月，用户破亿，成了当时增长最快的应用。", "tail": 0.95, "chapter": true},
+  {"n": 3, "slug": "gpt4-hundred-models", "title": "GPT-4 与百模大战", "lead": 0.65, "text": "三月，GPT-4 发布，能写文章、写代码、看懂图片。国内同时开打“百模大战”，文心一言、通义千问、讯飞星火接连登场。", "tail": 0.95},
+  {"n": 4, "slug": "how-to-ask", "title": "人人学提问", "lead": 0.65, "text": "Midjourney 画的图，已经真假难辨。这一年，人人都在学一件事：怎么提问。", "tail": 0.95},
+  {"n": 5, "slug": "2024-see-hear", "title": "2024 会看会听会想", "lead": 1.1, "text": "2024 年，关键词：会看、会听、会想。二月，Sora 用一段文字生成一分钟视频，震惊全网。五月，GPT-4o 能像真人一样实时对话。", "tail": 0.95, "chapter": true},
+  {"n": 6, "slug": "price-think", "title": "价格战与先思考", "lead": 0.65, "text": "国内大模型打起价格战，调用成本降到了“厘”。九月，o1 出现，AI 开始先思考、再回答。", "tail": 0.95},
+  {"n": 7, "slug": "nobel-infra", "title": "诺奖与基础设施", "lead": 0.65, "text": "十月，诺贝尔物理学奖和化学奖，都颁给了 AI 相关的研究。AI 从新鲜玩具，变成了基础设施。", "tail": 0.95},
+  {"n": 8, "slug": "2025-deepseek", "title": "2025 会动手", "lead": 1.1, "text": "2025 年，关键词：会动手。春节，DeepSeek 横空出世，开源、便宜、还好用，让很多人第一次用上了会推理的 AI。", "tail": 0.95, "chapter": true},
+  {"n": 9, "slug": "agents", "title": "智能体出圈", "lead": 0.65, "text": "三月，Manus 刷屏，“智能体”这个词出了圈。Claude Code、Codex 这样的编程智能体，开始整段整段地替程序员写代码。", "tail": 0.95},
+  {"n": 10, "slug": "agent-year", "title": "智能体元年", "lead": 0.65, "text": "八月，GPT-5 发布；图片和视频生成，也到了以假乱真的程度。这一年被叫做“智能体元年”：AI 不再只给建议，它开始自己把事做完。", "tail": 0.95},
+  {"n": 11, "slug": "2026-openclaw", "title": "2026 会上班", "lead": 1.1, "text": "2026 年，关键词：会上班。一月，开源智能体 OpenClaw 爆火，一百天拿下二十五万颗星，全民“养龙虾”。", "tail": 0.95, "chapter": true},
+  {"n": 12, "slug": "workbuddy", "title": "大厂跟进", "lead": 0.65, "text": "大厂迅速跟进。三月，腾讯推出 WorkBuddy，在微信里发句话，电脑就能干活。", "tail": 0.95},
+  {"n": 13, "slug": "chatgpt-billion", "title": "合成一个应用，周活十亿", "lead": 0.65, "text": "七月，Codex 并入 ChatGPT，聊天、办公、写代码合成一个应用，周活跃用户突破十亿。", "tail": 0.95},
+  {"n": 14, "slug": "colleague", "title": "从工具到同事", "lead": 0.65, "text": "九月，GPT-6、Gemini 4、新一代 Claude 扎堆发布。AI 从工具，变成了同事。", "tail": 0.95},
+  {"n": 15, "slug": "four-steps", "title": "四步与落点", "lead": 1.1, "text": "不到四年，四步：会说话，会看会想，会动手，会上班。接下来的问题，不再是 AI 能不能，而是你会不会用。", "tail": 2.8}
+]

@@ -1,0 +1,17 @@
+[
+  {"n": 1, "slug": "hook", "title": "标题", "lead": 0.6, "tail": 0.6, "text": "一条三分钟的解说视频，到底是怎么做出来的？"},
+  {"n": 2, "slug": "define", "title": "定义", "lead": 0.6, "tail": 0.6, "text": "文案是骨架。画面跟着文案走。"},
+  {"n": 3, "slug": "number", "title": "大数字", "lead": 0.6, "tail": 0.6, "text": "三分钟的片子，大约是七百二十个字。"},
+  {"n": 4, "slug": "bars", "title": "柱状图", "lead": 0.6, "tail": 0.6, "text": "一分钟两百四十字，两分钟四百八十字，三分钟七百二十字。"},
+  {"n": 5, "slug": "versus", "title": "对照", "lead": 0.6, "tail": 0.6, "text": "横屏适合电脑和电视，竖屏适合手机。"},
+  {"n": 6, "slug": "change", "title": "从 A 到 B", "lead": 0.6, "tail": 0.6, "text": "以前靠手工排版，现在交给积木自动排。"},
+  {"n": 7, "slug": "cards", "title": "并列卡片", "lead": 0.6, "tail": 0.6, "text": "配音、字幕、配乐，三样都是自动生成的。"},
+  {"n": 8, "slug": "steps", "title": "步骤链", "lead": 0.6, "tail": 0.6, "text": "先写文稿，再定风格，然后配音，最后出片。"},
+  {"n": 9, "slug": "checklist", "title": "清单", "lead": 0.6, "tail": 0.6, "text": "出片前检查四件事：画面不出框，字幕不超宽，声音不断档，时长对得上。"},
+  {"n": 10, "slug": "grid", "title": "方格占比", "lead": 0.6, "tail": 0.6, "text": "风格库里有二十一种风格，其中八种是自己设计的。"},
+  {"n": 11, "slug": "ask", "title": "提问", "lead": 0.6, "tail": 0.6, "text": "那换一个比例，画面会不会乱？不会。"},
+  {"n": 12, "slug": "compare", "title": "对照表", "lead": 0.6, "tail": 0.6, "text": "比例，从一种变成五种。风格，从两种变成二十一种。声音，默认云扬，也可以换。"},
+  {"n": 13, "slug": "stack", "title": "叠卡", "lead": 0.6, "tail": 0.6, "text": "一层是文案，一层是画面，再叠上字幕和声音。"},
+  {"n": 14, "slug": "chapter", "title": "章节镜", "chapter": true, "lead": 0.6, "tail": 0.6, "text": "第二部分：怎么选风格。"},
+  {"n": 15, "slug": "closing", "title": "结论", "lead": 0.6, "tail": 1.2, "text": "记住一句话：文案定了，画面就定了。"}
+]
